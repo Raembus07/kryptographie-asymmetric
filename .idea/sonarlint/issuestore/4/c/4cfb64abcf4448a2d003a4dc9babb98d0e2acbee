@@ -1,0 +1,11 @@
+
+}
+java:S1118":Add a private constructor to hide the implicit public one.(†μθπ8£ί―2J$ee803caa-f568-43be-b025-8e83e8079b66
+–
+java:S6201&"NReplace this instanceof check and cast with 'instanceof PrivateKey privateKey'(–Όαύÿÿÿÿ8¦ί―2J$150058fb-5bdb-4ee3-9f8a-e714b0a91e67
+v
+java:S1128".Remove this unused import 'java.security.Key'.(ήΓ“ϊÿÿÿÿ8τή‰―2J$68b6530e-1062-4531-94ba-f5c778792c25
+|
+java:S1128"4Remove this unused import 'java.security.PublicKey'.(Ίβϊ½όÿÿÿÿ8υή‰―2J$a2d3b75b-8e02-4d46-9b12-8e7f0a32df9a
+ƒ
+java:S1128";Remove this unused import 'java.security.cert.Certificate'.(ίς‘ψÿÿÿÿ8υή‰―2J$a6b1ad29-af60-4b49-a809-97e9274072cf
